@@ -1,0 +1,792 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/* 1st start dental part */
+.startdental{
+
+padding-top: 25px;
+
+padding-bottom: 20px;
+}
+  .custom-hg{
+      padding: 0;
+      font-family: Myriad Pro;
+  }
+  h6{
+      color: #a0a0a0;
+      font-family: Myriad Pro;
+      padding-right: 0px;
+      font-size: 0.9rem;
+      padding-left: 14px;
+  }
+  h5{
+      color: #363636;
+      font-family: Myriad Pro;
+  }
+  .custom-hg  a{
+      
+margin-left: 0!important;
+  }
+  .custom-hg i{
+      color: #f69165!important;
+  }
+  .custom-hg a p{
+      color: #f69165!important;
+      font-size: 400;
+      font-size: 400;
+      font-family: Myriad Pro;
+      font-size: 30px;
+  }
+  .custom-hg a h3{
+      color: #222222!important;
+      font-weight: 600;
+      font-family: Myriad Pro;
+      padding-left: 2px;
+  }
+  .custom-hg1{
+  
+
+  
+text-align: end;
+  }
+  .custom-hg1 ul{
+  
+
+  }
+  .custom-hg1 ul li{
+
+    }
+  .custom-hg1 ul li a{
+    margin-right: 0px;
+  }
+  .custom-hg1 ul li a i {
+      color: #f69165;
+      font-size: 40px;
+  }
+  .custom-hg1 ul li h5{
+      
+color: #363636;
+      
+font-family: Myriad Pro;
+      
+font-weight: 400;
+      
+margin: 0;
+      
+padding-left: 14px;
+      
+font-size: 18px;
+  }
+  .custom-hg1 ul li p{
+      
+  margin-left: 35px!important;
+      
+  color: #a0a0a0;
+      
+  font-family: Myriad Pro;
+      
+  font-weight: 400;
+  }
+  
+  .start-icon{
+  
+margin: 0;
+  
+font-size: 28px;
+  }
+  .start-icon a{
+      padding-left: 12px;
+  }
+  .start-content{
+  margin-right: 1p;
+  margin-left: 0;
+  }
+  .start-content a{
+      
+  margin: 0;
+  }
+  .start-content a h5{
+      
+  }
+  .start-content p{
+      
+  }
+  .start-icon1{
+  
+  }
+  
+
+/* End 1st dental part */
+
+/*2nd header-part starting */
+.header-part {
+  background-color: #00cce1;
+}
+
+.navbar{
+ 
+padding-top: 0;
+ 
+padding-bottom: 0;
+ 
+padding-left: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  z-index: 999;
+  padding: 16px 15px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #fff;
+}
+
+.hover-ani {
+  position: relative;
+}
+.appoinment {
+  position: relative;
+}
+.appoinment .navbar-nav li{
+  color: #fff;
+}
+.appoinment .navbar-nav li::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  transform: skew(-10deg);
+  background-color: #f69165;
+  transition: 0.8s all ease-in-out;
+  z-index: -1;
+}
+.appoinment .navbar-nav li:hover::after {
+  width: 100%;
+  color: #fff;
+}
+.appoinment ul li {
+  display: flex;
+  color: #fff;
+  text-transform: uppercase;
+  z-index: 999;
+}
+.appoinment .hover-ani {
+  padding: 0px 30px;
+}
+.appoinment i {
+  padding: 17px 0px;
+}
+/* 2nd header-part Ending */
+
+
+/* 3rd start we provide total */
+.We-Provide-Total{
+  background-image: url(../images/banner.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+}
+.custom-wpt{
+padding-top: 11%;
+margin-left: 14px;
+}
+.banner-button {
+  
+display: flex;
+  
+justify-content: space-between;
+}
+.banner-button .btn-custom1{
+  background: #f69165;
+  padding: 6px 18px;
+  border: none;
+  border-radius: 0;
+}
+.banner-button .btn-custom2{
+  background: #02cee4;
+  padding:  6px 18px;
+  border: none;
+  border-radius: 0;
+  margin-right: 10rem;
+}
+.heading{
+
+}
+.heading h3{
+  color: #ffffff;
+  padding: 5px;
+  background: #00cce1;
+  margin-right: 20rem;
+}
+.heading h1{
+  color: #ffffff;
+  background-color: #f69165;
+  margin-right: 11rem;
+  padding: 5px;
+  font-family: Myriad Pro;
+}
+p {
+  color: #636363;
+  font-family: Myriad Pro;
+  font-weight: 400;
+  padding: 10px;
+  padding-left: 0;
+}
+.provide-content{
+  padding: 2px;
+}
+.we-provideT-content p{
+  color: #fff;
+  background: #f69165;
+  margin-right: 55%;
+  padding: 5px;
+  font-family: Myriad Pro;
+}
+.we-provideT-content2 p{
+  color: #fff;
+  background: #00cce1;
+  margin-right: 61%;
+  padding: 5px;
+  text-transform: uppercase;
+  font-family: Myriad Pro;
+}
+
+/* 3rd End we provide total */
+
+/* 4th part start Welcome to Dental Plus Agency*/
+
+.Welcome-Dental-Plus-Agency{
+
+padding-top: 80px;
+
+}
+.img-dental-plus{
+
+}
+.img-dental-plus img{
+  min-height: 102vh;
+}
+.heading1{
+
+}
+.heading1 h3{
+  
+color: #363636;
+  
+font-family: Myriad Pro;
+}
+.heading1 p{
+  
+color: #707070;
+  
+font-family: Myriad Pro;
+}
+.welcome{
+
+}
+.welcome a{
+  
+}
+.welcome h5{
+  
+color: #363636;
+  
+font-family: Myriad Pro;
+}
+.welcome p{
+  
+color: #707070;
+  
+font-family: Myriad Pro;
+}
+
+/* 4th part end Welcome to Dental Plus Agency.*/
+
+/* 5th Start Meet out doctor */
+.meetourdoctor {
+  padding: 100px 0px;
+  background-color: #f9f9f9;
+}
+.cus-mod{
+    color: #5e5e5e;
+    padding-bottom: 50px;
+}
+.cus-mod i {
+  font-size: 30px;
+  font-weight: 700;
+  color: #f69165;
+  transform: rotate(90deg);
+}
+.cus-mod h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+.cus-mod p {
+  padding-top: 15px;
+  font-size: 18px;
+}
+.doctordetails {
+  padding: 15px;
+}
+.doctor-info {
+  border-bottom: 4px solid #00cce1;
+  margin-top: 20px;
+}
+.info {
+  text-align: center;
+  padding: 20px 0;
+}
+.info h5 {
+  font-size: 24px;
+  font-weight: 700;
+}
+.info p {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0;
+}
+.image-element {
+  position: relative;
+}
+.icon-box {
+  position: absolute;
+  top: 55%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+  color: #ffffff;
+  opacity: 0;
+  transition: 1s all ease-in-out;
+}
+.icon-box ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.icon-box ul li:first-child {
+  border: 2px solid #fff;
+  padding: 5px 10px;
+  margin: 5px;
+}
+.icon-box ul li {
+  border: 2px solid #fff;
+  padding: 5px 7px;
+  margin: 5px;
+}
+
+.icon-box ul li:last-child {
+  border: 2px solid #fff;
+  padding: 5px 5px;
+  margin: 5px;
+}
+.icon-box ul li:hover {
+  background-color: #f69165;
+  border: 2px solid #f69165;
+}
+.doctor-info:hover .icon-box {
+  opacity: 1;
+  z-index: 999;
+  transition: 1s all ease-in-out;
+} 
+
+.image-element::after {
+  content: "";
+  position: absolute;
+  background-color: #000000ad;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 100%;
+  transition: 1s all ease-in-out;
+}
+.doctor-info:hover .image-element::after {
+  width: 100%;
+  height: 100%;
+  bottom: 0%;
+}
+.doctor-info:hover {
+  border-bottom: 4px solid #f69165;
+  transition: 1s all ease-in-out;
+}
+.doctor-info:hover h5 {
+  color: #f69165;
+  transition: 1s all ease-in-out;
+}
+
+
+/* 5th part Meet our doctor End */
+
+/* 6th start section Our Services */
+
+.cus-srvc{
+  margin-top: 60px;
+}
+
+.ourservices {
+  padding: 86px 0px;
+  color: #5e5e5e;
+}
+.servicebox {
+  border: none;
+  border: 3px solid #cccccc;
+  transition: 0.4s all ease-in-out;
+}
+.service {
+  padding: 18px 20px;
+}
+.service a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 600;
+  color: #707070;
+  transition: 0.4s all ease-in-out;
+}
+.service p {
+  font-size: 16px;
+  font-weight: 500;
+  padding-top: 10px;
+}
+.icon {
+  display: flex;
+  vertical-align: middle;
+}
+.icon i {
+  font-size: 30px;
+  color: #f69165;
+  padding-right: 15px;
+}
+.icon h5 {
+  font-size: 24px;
+  font-weight: 700;
+  transition: 0.4s all ease-in-out;
+}
+.servicebox:hover {
+  border: 3px solid #f69165;
+  transition: 1s ease-in-out;
+}
+.servicebox:hover h5 {
+  color: #f69165;
+}
+.servicebox:hover a {
+  color: #f69165;
+}
+
+/*  6th End section Our Services */
+/* 7th start Our Pricing plan  */
+.our-pricing-plan {
+  background: #f9f9f9;
+  padding: 85px 0px;
+}
+.pricing-content{
+  text-align: center;
+  text-transform: capitalize;
+  border: 3px solid #fff;
+  transition: 0.6s all ease-in-out;
+}
+
+.pricing-content h2 {
+  font-family: Myriad Pro;
+  color: #00cce1;
+  font-weight: 600;
+  transition: 0.5s all ease-in-out;
+  margin-top: 15px;
+}
+
+.pricing-content p {
+  font-family: Myriad Pro;
+  color: #707070;
+  font-weight: 500;
+  margin-top: 15px;
+}
+
+.pricing-content .btn {
+  background: transparent;
+  border: transparent;
+  background: #00cce1;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 6px 27px;
+  text-decoration: none;
+  border-radius: 0px;
+  margin-bottom: 24px;
+  transition: 0.4s all ease-in-out;
+}
+
+.value {
+  background: #fff;
+  color: #00cce1;
+  padding: 11px 0px;
+  transition: 0.8s all ease-in-out;
+}
+
+.value h1 {
+  font-family: Myriad Pro;
+  font-weight: 600;
+  transition: 0.7s all ease-in-out;
+}
+
+.value h6 {
+  font-family: Myriad Pro;
+  transition: 0.5s all ease-in-out;
+}
+.pricing-content:hover {
+  box-shadow: 0 0px 4px 3px #f69165;
+}
+
+.pricing-content:hover h2 {
+  color: #f69165;
+  transform-origin: right;
+}
+
+.pricing-content:hover .value {
+  background-color: #f69165;
+  color: #fff;
+}
+
+.pricing-content:hover .value h1 {
+  font-weight: 900;
+  font-size: 48px;
+  color: #fff;
+}
+
+.pricing-content:hover .value h6 {
+  color: #fff;
+}
+
+.pricing-content:hover .btn {
+  background-color: #f69165;
+  color: #fff;
+}
+/* 7th End Our pricing Plan section */
+
+/* 8th start our happy clients */
+
+.our-happy-clients {
+  background-image: url(../images/client.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 60vh;
+  position: relative;
+  padding-top: 38px;
+  padding-bottom: 38px;
+}
+
+.our-happy-clients:hover .cus-mod1 h1 {
+  color: #fff;
+  font-family: Myriad Pro;
+}
+.cus-mod1{
+  color: #5e5e5e;
+  padding-bottom: 30px;
+  position: relative;
+
+}
+.our-happy-clients:hover .cus-mod1 p {
+  color: #fff;
+  font-family: Myriad Pro;
+  margin-top: 0px;
+  margin: 0;
+}
+
+.cus-mod1 h1 {
+  font-family: Myriad Pro;
+  text-transform: capitalize;
+  font-weight: 600;
+  margin-top: 10px;
+  transition: 0.9s all ease-in-out;
+}
+
+.cus-mod1 p {
+  color: #75787d;
+  font-family: Myriad Pro;
+  font-weight: 500;
+  text-transform: capitalize;
+  padding: 20px 10%;
+  transition: 0.9s all ease-in-out;
+}
+.cus-mod1 i {
+  color:#f69165;
+  transform: rotate(90deg);
+}
+
+.our-happy-clients::before{
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+  background: #333333bf;
+  transition: 1s all ease-in-out;
+  opacity: 0;
+}
+.our-happy-clients:hover::before {
+  height: 100%;
+  width: 100%;
+  color: #707070;
+  font-family: Myriad Pro;
+  opacity: 1;
+}
+.our-happy-clients .client-up-content::before{
+  opacity: 0;
+  position: absolute;
+  
+  bottom: 0%;
+  
+  top: 0%;
+
+  transform: translate(-50% ,5%);
+
+  transition: 1.5s all ease-in-out;
+  
+  color: #fff;
+  
+}
+.our-happy-clients :hover .client-up-content{
+  opacity: 1;
+  transform: translate(-0% ,5%);
+  transition: 1.5s all ease-in-out;
+}
+
+/* 8th End our happy clients */
+
+/* 9th start Dental Recent Newsletter part*/
+.dental-recent-news{
+  background-color: #222222;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.news-cont{
+  padding-top: 18px;
+}
+.news-cont a{
+  
+}
+.news-cont ul li a i{
+      font-size: 28px;
+      color: #fff;
+}
+.news-cont  h5{
+ font-size: 18px;
+ color: #fff;
+}
+.news-cont a i{
+  color: #fff;
+}
+.news-cont a p{
+  color: #fff;
+  font-family: Myriad Pro;
+  padding-bottom: 10px;
+  font-size: 24px;
+}
+.news-cont p{
+  color: #75787d;
+  font-family: Myriad Pro;
+}
+.news-cont ul{
+  list-style: none;
+  /* padding-left: 0; */
+}
+.news-cont ul li{
+  
+}
+.news-cont ul li a{
+  
+}
+.news-cont ul li a i{
+  color: #fff
+}
+.news-cont ul li p{
+  color: #75787d;
+  font-family: Myriad Pro;
+  padding-top: 0;
+  padding-left: 1px;
+}
+.news-cont1 h4{
+  color: #ffffff;
+  font-family: Myriad Pro;
+  padding: 12px;
+}
+/* .news-cont h4{
+  color: #ffffff;
+  font-family: Myriad Pro;
+  padding: 12px;
+} */
+
+.sub-news-cont ul li p{
+  color: #fff;
+  font-size: 20px;
+  font-family: Myriad Pro;
+}
+.sub-news-cont2 ul li a{
+  color: #75787d;
+
+}
+.sub-news-cont2 ul li a i{
+  color: #75787d;
+  padding-left: 5px;
+
+}
+.sub-news-cont ul {
+  list-style: none;
+}
+.news-cont3{
+  color: #75787d;
+}
+.news-cont3 h5{
+  color: #fff;
+}
+
+.input-group-append .btn, .input-group-prepend .btn {
+  position: relative;
+  z-index: 2;
+  color: #ffffff;
+  border-color: #f69165;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #f69165;
+}
+.form-control {
+  color: #495057;
+  background-color: #222;
+  border: 1px solid #ced4da69;
+}
+.sub-news-cont2 ul li a i:hover {
+  color: #f69165;
+  background-color:#222222;
+  transition: 0.6s all ease-in-out;
+
+}
+
+/* 9th End Dental Recent Newsletter part*/
+
+/* 10th start  footer part */
+.footer-part{
+  background-color: #161616;
+  font-size: 18px;
+  font-weight: 600;
+  
+}
+.footer-part span{
+  font-weight: 700;
+  color: #00cce1;
+}
+.cftr{
+  padding: 20px 0px;
+}
+.cftr p{
+  margin: 0;
+  color: #727272;
+}
+*{
+  font-family: Myriad Pro;
+}
+/* End footer part */

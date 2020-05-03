@@ -1,0 +1,2741 @@
+@media (max-width: 1199px){
+  .cus-align ul li img {
+    /* margin-left: 27px; */
+    /* margin: 0; */
+    display: block;
+}
+  /* 1st start dental part */
+.startdental{
+
+  padding-top: 17px;
+  padding-bottom: 7px;
+}
+
+.hg1{
+  margin-left: 1px;
+}
+.hg2{
+  margin-left: 20px;
+}
+  h6{
+  
+font-size: 10px;
+  
+padding-top: 0;
+  }
+  .custom-hg1 ul{
+  
+display: contents;
+  }
+
+  .custom-hg1 ul li h5{
+      
+font-size: 15px;
+  }
+  /* 1st End dental part */
+  /* 3rd start we provide total */
+.We-Provide-Total{
+
+background-position: 76% 100%;
+
+min-height: 111vh;
+
+}
+.heading h3{
+
+font-size: 18px;
+
+margin: 0;
+
+margin-bottom: 21px;
+
+margin-right: 12rem;
+}
+.heading h1{
+
+font-size: 22px;
+
+margin: 0;
+
+margin-bottom: 21px;
+
+margin-right: 12rem;
+}
+p {
+
+text-align: start;
+
+font-size: 14px;
+
+margin-right: 34px;
+}
+
+/* 3rd End we provide total */
+/* 4th part start Welcome to Dental Plus Agency*/
+
+.Welcome-Dental-Plus-Agency{
+
+background-image: url(../images/welcome.jpg);
+
+background-size: 130vh;
+
+background-repeat: no-repeat;
+
+background-position: 7% -17%;
+
+padding-top: 45px;
+
+}
+          .img-dental-plus{
+          
+          }
+          .img-dental-plus img{
+              display: none;
+          }
+          .heading1{
+          
+      text-align: center;
+          
+      /* margin-top: 0; */
+          }
+          .heading1 h3{
+            
+text-align: center;
+            
+font-size: 21px;
+            
+padding-top: 0;
+          }
+          .heading1 p{
+            
+text-align: center;
+            
+font-size: 14px;
+            
+margin-right: 0;
+          }
+          .welcome{
+          
+      text-align: center;
+          }
+          .welcome a{
+            
+          }
+          .welcome h5{
+            
+font-size: 15px;
+          }
+          .welcome p{
+            
+text-align: center;
+            
+margin-right: 0;
+            
+font-size: 13px;
+          }
+          
+          /* 4th part end Welcome to Dental Plus Agency.*/
+          /* 5th Start Meet out doctor */
+.meetourdoctor {
+  padding:;
+  padding: 75px 0px;
+  }
+  .cus-mod{
+    
+padding: 0;
+  }
+  .cus-mod i {
+
+font-size: 20px;
+
+}
+  .cus-mod h1 {
+  
+font-size: 23px;
+  }
+  .cus-mod p {
+ 
+margin-block-end: 0;
+ 
+text-align: center;
+ 
+/* margin-left: 9rem; */
+ 
+font-size: 14px;
+ 
+padding-bottom: 40px;
+}
+  .doctordetails {
+  
+padding: 0;
+  
+/* text-align: center; */
+  }
+
+  .info {
+
+text-align: center;
+
+}
+  .info h5 {
+  
+font-size: 18px;
+  }
+  .info p {
+
+text-align: center;
+
+font-size: 15px;
+
+padding: 0;
+
+}
+  /* 5th part Meet our doctor End */
+  /* 7th start Our Pricing plan  */
+.our-pricing-plan {
+
+  padding: 85px 0px;
+}
+.pricing-content{
+
+border: 3px solid #fff;
+
+transition: 0.6s all ease-in-out;
+}
+
+.pricing-content h2 {
+
+font-weight: 600;
+
+/* transition: 0.5s all ease-in-out; */
+
+/* margin-top: 15px; */
+
+font-size: 20px;
+}
+
+.pricing-content p {
+
+/* font-weight: 500; */
+
+/* margin-top: 0px; */
+
+padding: 0;
+
+margin: 0px;
+
+text-align: center;
+}
+
+.pricing-content .btn {
+
+padding: 2px 17px;
+
+text-decoration: none;
+
+font-size: 16px;
+
+border-radius: 0px;
+
+margin-bottom: 24px;
+
+transition: 0.4s all ease-in-out;
+}
+
+.value {
+
+  padding: 11px 0px;
+  transition: 0.8s all ease-in-out;
+}
+
+.value h1 {
+
+/* transition: 0.7s all ease-in-out; */
+
+/* font-size: 33px; */
+}
+
+.value h6 {
+  /* font-family: Myriad Pro; */
+  /* transition: 0.5s all ease-in-out; */
+  font-size: 12px;
+}
+.pricing-content:hover {
+  box-shadow: 0 0px 4px 3px #f69165;
+}
+
+.pricing-content:hover h2 {
+
+/* font-size: 18px; */
+}
+
+.pricing-content:hover .value {
+
+}
+
+.pricing-content:hover .value h1 {
+
+}
+
+.pricing-content:hover .value h6 {
+
+}
+
+.pricing-content:hover .btn {
+
+}
+/* 7th End Our pricing Plan section */
+  /* 8th start our happy clients */
+
+.cus-mod1 h1 {font-size: 2;font-size: 26px;}
+
+.cus-mod1 p {
+  font-size: 14px;
+  padding: 10px;
+  text-align: center;
+
+}
+
+/* 8th End our happy clients */
+/* 9th start Dental Recent Newsletter part*/
+.dental-recent-news{
+ 
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.news-cont{
+
+/* text-align: center; */
+}
+
+.news-cont ul li a i{
+
+/* display: block; */
+
+/* font-size: 30px; */
+
+/* margin-left: 132px; */
+
+font-size: 30px;
+
+/* padding: 0; */
+
+/* margin: 0; */
+
+display: block;
+
+margin-left: 0rem;
+}
+.news-cont  h5{
+
+/* text-align: end; */
+
+font-size: 23px;
+
+/* text-align: center; */
+}
+.news-cont  p{
+
+/* text-align: center; */
+
+font-size: 14px;
+}
+.cus-align{
+
+}
+.cus-align ul{
+  
+}
+.cus-align ul li{
+  
+}
+.cus-align ul li a{
+  
+padding-left: 30px;
+}
+.cus-align ul li p{
+  
+padding-left: 9px;
+  
+font-size: 10px;
+  
+padding-top: 22px;
+}
+.cus-align ul li a img{
+  
+/* margin-left: 27px; */
+  
+/* margin: 0; */
+  
+display: block;
+  
+height: 20px;
+}
+.news-cont1 h4{
+
+/* text-align: center; */
+}
+.news-cont1 p{
+
+}
+.news-cont1 ul{
+
+list-style: none;
+
+padding: -3px;
+}
+.news-cont1 ul li{
+  
+padding: -6px;
+}
+.news-cont1 ul li a{/* padding-left: 0; *//* margin: 0; */display: block;}
+.news-cont1 ul li p{font-size: 13px;padding-left: 14px;padding-top: 0px;/* text-align: end; */}
+.news-cont1 ul li a img{display: block;}
+.news-cont1 ul li a i{
+}
+
+.news-cont3{
+
+/* text-align: center; */
+
+padding-top: 13px;
+}
+.news-cont3 h4{
+
+  
+}
+.news-cont3 p{
+
+font-size: 15px;
+
+/* text-align: center; */
+}
+.input-group mb-3{
+
+}
+.input-group mb-3 .form-control{
+  
+}
+.btn btn-outline-secondary{
+
+}
+.sub-news-cont ul li p{
+
+font-size: 15px;
+}
+.sub-news-cont2 ul {
+ 
+
+}
+.sub-news-cont2 ul li{
+ 
+font-size: 13px;
+}
+.sub-news-cont h5{
+
+font-size: 18px;
+
+/* display: contents; */
+
+padding: -7px;
+}
+.sub-news-cont2 ul li a{
+ 
+
+}
+.sub-news-cont2 ul li a i{
+ 
+  padding-left: 5px;
+
+}
+
+.input-group-append .btn, .input-group-prepend .btn {
+
+  z-index: 2;
+ 
+}
+
+.btn-outline-secondary:hover {
+ 
+}
+.form-control {
+ 
+}
+.sub-news-cont2 ul li a i:hover {
+
+
+}
+
+/* 9th End Dental Recent Newsletter part*/
+
+/* 10th start  footer part */
+.footer-part{
+  
+  
+}
+.footer-part span{
+  
+}
+.cftr{
+ 
+}
+.cftr p{
+ 
+text-align: center;
+ 
+font-size: 14px;
+ 
+padding: 5px 0;
+}
+
+/* End footer part */
+
+
+
+}
+
+@media (max-width:991px){
+      /* 1st start dental part */
+      .startdental{
+      
+          padding: 0;
+      
+          
+          padding-left: 72px;
+          }
+  
+          .hg2{
+          margin-left: 0;
+          }
+              .custom-hg{
+              display: contents;
+              text-align: end;
+              }
+
+.custom-hg1{
+              
+margin-left: 0;
+              
+display: contents;
+}
+.custom-hg1 ul{
+              
+text-align: center;
+              
+}
+.start-icon{
+      
+display: contents;
+              
+text-align: end;
+}
+/* 1st End dental part */
+
+/* 3rd start we provide total */
+.img-h{
+  
+}
+.We-Provide-Total{background-position: 78% 100%;}
+.custom-wpt{
+
+}
+.banner-button {
+
+text-align: center;
+}
+.banner-button .btn-custom1{
+
+font-size: 11px;
+}
+.banner-button .btn-custom2{
+
+font-size: 10px;
+
+margin-right: 0rem;
+}
+.heading{
+
+text-align: center;
+}
+.heading h3{
+
+font-size: 14px;
+
+margin: 0;
+
+margin-bottom: 21px;
+
+margin-right: 8rem;
+}
+.heading h1{
+
+font-size: 16px;
+
+margin: 0;
+
+margin-bottom: 12px;
+
+margin-right: 8rem;
+}
+p {
+
+font-size: 16px;
+
+text-align: center;
+}
+.provide-content{
+
+text-align: start;
+}
+
+/* 3rd End we provide total */
+/* 4th part start Welcome to Dental Plus Agency*/
+
+.Welcome-Dental-Plus-Agency{
+
+background-image: url(../images/welcome.jpg);
+
+/* background-size: 100vh; */
+
+background-repeat: no-repeat;
+
+padding: 10px 0;
+
+background-position: 0 97%;
+
+min-height: 131vh;
+}
+      .img-dental-plus{
+      
+display: none;
+      }
+      .img-dental-plus img{
+          display: none;
+      }
+      .heading1{
+      
+text-align: center;
+      
+/* margin-top: 0; */
+      
+position: 10% 5%;
+      
+padding: 0;
+      
+margin-top: 29%;
+      }
+      .heading1 h3{
+        
+text-align: center;
+        
+font-size: 20px;
+      }
+      .heading1 p{
+        
+text-align: center;
+        
+font-size: 14px;
+        
+margin-right: 0;
+      }
+      .welcome{
+      
+  text-align: center;
+      }
+      .welcome a{
+        
+      }
+      .welcome h5{
+        
+font-size: 15px;
+      }
+      .welcome p{
+        
+text-align: center;
+        
+margin-right: 0;
+        
+font-size: 14px;
+        
+padding-top: 0;
+      }
+      
+      /* 4th part end Welcome to Dental Plus Agency.*/
+
+/* 5th Start Meet out doctor */
+.meetourdoctor {
+  
+  padding: 75px 0px;
+  }
+  .cus-mod{
+    
+padding: 0;
+    
+/* text-align: center; */
+    
+/* justify-content: start; */
+  }
+  .cus-mod i {
+  
+font-size: 22px;
+  }
+  .cus-mod h1 {
+  
+font-size: 22px;
+  }
+  .cus-mod p {
+  
+/* margin-block-end: 0; */
+  
+text-align: center;
+  
+margin-left: 1rem;
+  
+font-size: 15px;
+  }
+  .doctordetails {
+  
+  padding: 0;
+  
+  /* text-align: center; */
+  }
+  
+  .info {
+  
+  text-align: center;
+  
+  }
+  .info h5 {
+  
+  font-size: 18px;
+  }
+  .info p {
+  
+  text-align: center;
+  
+  font-size: 15px;
+  
+  padding: 0;
+  
+  }
+  .icon-box ul li:first-child {
+    border: 1px solid #fff;
+    padding: 2px 4px;
+    margin: 7px;
+  }
+  .icon-box ul li {
+    border: 1px solid #fff;
+    padding: 1px 3px;
+    margin: 9px;
+  }
+  
+  .icon-box ul li:last-child {
+    border: 1px solid #fff;
+    padding: 2px 2px;
+    margin: 8px;
+  }
+  /* 5th part Meet our doctor End */
+  /* 6th start section Our Services */
+.service {
+  
+  min-height: 100px;
+  }
+  .service a {
+  
+display: block;
+  
+font-size: 16px;
+  }
+  .service p {
+  
+font-size: 14px;
+  
+display: contents;
+  }
+  .icon {
+  
+display: block;
+  
+text-align: end;
+  
+text-align: center;
+  
+min-height: 86px;
+  }
+  .icon i {
+   
+  padding: 0;
+  }
+  .icon h5 {font-size: 15px;}
+  
+  /*  6th End section Our Services */
+  /* 7th start Our Pricing plan  */
+.our-pricing-plan {
+
+  padding: 85px 0px;
+}
+.pricing-content{
+
+border: 3px solid #fff;
+
+transition: 0.6s all ease-in-out;
+}
+
+.pricing-content h2 {
+
+font-weight: 600;
+
+/* transition: 0.5s all ease-in-out; */
+
+/* margin-top: 15px; */
+
+font-size: 20px;
+}
+
+.pricing-content p {
+
+/* font-weight: 500; */
+
+/* margin-top: 0px; */
+
+padding: 0;
+
+margin: 0px;
+
+text-align: center;
+}
+
+.pricing-content .btn {
+
+padding: 2px 17px;
+
+text-decoration: none;
+
+font-size: 16px;
+
+border-radius: 0px;
+
+margin-bottom: 24px;
+
+transition: 0.4s all ease-in-out;
+}
+
+.value {
+
+  padding: 11px 0px;
+  transition: 0.8s all ease-in-out;
+}
+
+.value h1 {
+
+/* transition: 0.7s all ease-in-out; */
+
+/* font-size: 33px; */
+}
+
+.value h6 {
+  /* font-family: Myriad Pro; */
+  /* transition: 0.5s all ease-in-out; */
+  font-size: 12px;
+}
+.pricing-content:hover {
+  box-shadow: 0 0px 4px 3px #f69165;
+}
+
+.pricing-content:hover h2 {
+
+/* font-size: 18px; */
+}
+
+.pricing-content:hover .value {
+
+}
+
+.pricing-content:hover .value h1 {
+
+}
+
+.pricing-content:hover .value h6 {
+
+}
+
+.pricing-content:hover .btn {
+
+}
+/* 7th End Our pricing Plan section */
+/* 8th start our happy clients */
+
+.our-happy-clients {
+
+}
+
+.cus-mod1{
+
+}
+
+.cus-mod1 h1 {font-size: 2;font-size: 18px;}
+
+.cus-mod1 p {
+  font-size: 13px;
+  padding: 5px;
+  text-align: center;
+}
+.cus-mod1 i {
+ 
+}
+/* 8th End our happy clients */
+/* 9th start Dental Recent Newsletter part*/
+.dental-recent-news{
+ 
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.news-cont{
+
+/* text-align: center; */
+}
+
+.news-cont ul li a i{
+
+font-size: 20px;
+
+/* margin-left: 132px; */
+
+/* font-size: 14px; */
+
+/* padding: 0; */
+
+/* margin: 0; */
+
+display: block;
+}
+.news-cont  h5{
+
+/* text-align: end; */
+
+font-size: 19px;
+
+text-align: center;
+}
+.news-cont  p{
+
+/* text-align: center; */
+
+font-size: 13px;
+}
+.cus-align{
+
+}
+.cus-align ul{
+  
+}
+.cus-align ul li{
+  
+}
+.cus-align ul li a{
+  
+padding-left: 30px;
+}
+.cus-align ul li p{
+  
+/* padding-left: 30px; */
+  
+display: contents;
+  
+font-size: 11px;
+}
+.cus-align ul li a img{
+  
+display: block;
+  
+height: 18px;
+}
+.news-cont1 h4{
+
+text-align: center;
+
+font-size: 19px;
+}
+.news-cont1 p{
+
+}
+.news-cont1 ul{
+
+list-style: none;
+
+padding: -3px;
+}
+.news-cont1 ul li{
+  
+padding: -6px;
+}
+.news-cont1 ul li a{/* padding-left: 0; *//* margin: 0; */display: block;}
+.news-cont1 ul li p{font-size: 11px;/* padding-left: 44px; *//* padding-top: 0px; *//* text-align: end; */display: contents;}
+.news-cont1 ul li a img{display: block;height: 49px;margin-top: 8px;}
+.news-cont1 ul li a i{
+}
+
+.news-cont3{
+
+text-align: center;
+
+padding-top: 13px;
+}
+.news-cont3 h4{
+
+  
+}
+.news-cont3 p{
+
+font-size: 14px;
+
+text-align: center;
+}
+.input-group mb-3{
+
+}
+.input-group mb-3 .form-control{
+  
+}
+.btn btn-outline-secondary{
+
+}
+.sub-news-cont ul li p{
+
+font-size: 15px;
+}
+.sub-news-cont2 ul {
+ 
+
+}
+.sub-news-cont2 ul li{
+ 
+font-size: 9px;
+}
+.sub-news-cont h5{
+
+font-size: 10px;
+
+/* display: contents; */
+
+padding: -7px;
+}
+.sub-news-cont2 ul li a{
+ 
+
+}
+.sub-news-cont2 ul li a i{
+ 
+  padding-left: 5px;
+
+}
+
+.input-group-append .btn, .input-group-prepend .btn {
+
+  z-index: 2;
+ 
+}
+
+.btn-outline-secondary:hover {
+ 
+}
+.form-control {
+ 
+}
+.sub-news-cont2 ul li a i:hover {
+
+
+}
+
+/* 9th End Dental Recent Newsletter part*/
+
+/* 10th start  footer part */
+.footer-part{
+  
+  
+}
+.footer-part span{
+  
+}
+.cftr{
+ 
+}
+.cftr p{
+ 
+}
+
+/* End footer part */
+
+
+
+
+}
+@media(max-width:767px){
+        /* 1st start dental part */
+          .startdental{
+        
+            padding: 0;
+        
+            
+            padding-left: 72px;
+            }
+    
+            .hg2{
+            margin-left: 0;
+            }
+                .custom-hg{
+                display: contents;
+                text-align: end;
+              }
+
+.custom-hg1{
+              
+margin-left: 0;
+              
+display: contents;
+}
+.custom-hg1 ul{
+              
+text-align: center;
+              
+}
+.start-icon{
+      
+display: contents;
+              
+text-align: end;
+}
+.start-icon1 {
+}
+.start-icon1 img{
+
+height: 16px;
+
+/* margin-left: 5px; */
+}
+.custom-hg1 ul li h5 {
+  font-size: 12px;
+}
+.start-content {
+  margin-left: 0;
+}
+/* 1st End dental part */
+
+/* 3rd start we provide total */
+.img-h{
+  
+}
+.We-Provide-Total{background-position: 78% 100%;}
+.custom-wpt{
+
+}
+.banner-button {
+
+text-align: center;
+}
+.banner-button .btn-custom1{
+
+font-size: 11px;
+}
+.banner-button .btn-custom2{
+
+font-size: 10px;
+
+margin-right: 0rem;
+}
+.heading{
+
+text-align: center;
+}
+.heading h3{
+
+font-size: 14px;
+
+margin: 0;
+
+margin-bottom: 21px;
+
+margin-right: 2rem;
+}
+.heading h1{
+
+font-size: 14px;
+
+margin: 0;
+
+margin-bottom: 12px;
+
+margin-right: 2rem;
+}
+p {
+
+font-size: 16px;
+
+text-align: center;
+}
+.provide-content{
+
+text-align: start;
+}
+
+/* 3rd End we provide total */
+/* 4th part start Welcome to Dental Plus Agency*/
+
+.Welcome-Dental-Plus-Agency{
+
+/* background-image: url(../images/welcome.jpg); */
+
+/* background-size: 100vh; */
+
+/* background-repeat: no-repeat; */
+
+/* padding: 10px 0; */
+
+/* background-position: 0 97%; */
+
+/* min-height: 131vh; */
+
+display: contents;
+
+/* padding: 10px 0; */
+}
+      .img-dental-plus{
+      
+display: contents;
+      }
+      .img-dental-plus img{
+          /* display: flex; */
+          /* min-height: 92vh; */
+          margin-top: 26px;
+          display: block;
+          height: 100vh;
+      }
+      .heading1{
+      
+text-align: center;
+      
+/* margin-top: 0; */
+      
+position: 10% 5%;
+      
+padding: 0;
+      
+margin-top: 23%;
+      }
+      .heading1 h3{
+        
+text-align: center;
+        
+font-size: 15px;
+      }
+      .heading1 p{
+        
+text-align: center;
+        
+font-size: 12px;
+        
+margin-right: 0;
+      }
+      .welcome{
+      
+  text-align: center;
+      }
+      .welcome a{
+        
+      }
+      .welcome h5{
+        
+font-size: 10px;
+      }
+      .welcome p{
+        
+text-align: center;
+        
+margin-right: 0;
+        
+font-size: 10px;
+        
+padding-top: 0;
+      }
+      
+      /* 4th part end Welcome to Dental Plus Agency.*/
+
+/* 5th Start Meet out doctor */
+.meetourdoctor {
+  
+  padding: 75px 0px;
+  }
+  .cus-mod{
+    
+padding: 0;
+    
+/* text-align: center; */
+    
+/* justify-content: start; */
+  }
+  .cus-mod i {
+  
+font-size: 17px;
+  }
+  .cus-mod h1 {
+  
+font-size: 16px;
+  }
+  .cus-mod p {
+  
+/* margin-block-end: 0; */
+  
+text-align: center;
+  
+/* margin-left: 1rem; */
+  
+font-size: 14px;
+  
+padding-bottom: 32px;
+  }
+  .doctordetails {
+  
+  padding: 0;
+  
+  /* text-align: center; */
+  }
+  
+  .info {
+  
+  text-align: center;
+  
+  }
+  .info h5 {
+  
+font-size: 14px;
+  }
+  .info p {
+  
+text-align: center;
+  
+font-size: 13px;
+  
+padding: 0;
+  }
+  .icon-box ul li:first-child {
+    border: 1px solid #fff;
+    padding: 2px 4px;
+    margin: 7px;
+  }
+  .icon-box ul li {
+    border: 1px solid #fff;
+    padding: 1px 3px;
+    margin: 9px;
+  }
+  
+  .icon-box ul li:last-child {
+    border: 1px solid #fff;
+    padding: 2px 2px;
+    margin: 8px;
+  }
+  /* 5th part Meet our doctor End */
+  /* 6th start section Our Services */
+.service {
+  
+  min-height: 100px;
+  }
+  .service a {
+  
+display: block;
+  
+font-size: 16px;
+  }
+  .service p {
+  
+font-size: 14px;
+  
+display: contents;
+  }
+  .icon {
+  
+display: block;
+  
+text-align: end;
+  
+text-align: center;
+  
+min-height: 86px;
+  }
+  .icon i {
+   
+padding: 0;
+   
+font-size: 24px;
+  }
+  .icon h5 {font-size: 13px;}
+  
+  /*  6th End section Our Services */
+  /* 7th start Our Pricing plan  */
+.our-pricing-plan {
+
+  padding: 85px 0px;
+}
+.pricing-content{
+
+border: 3px solid #fff;
+
+transition: 0.6s all ease-in-out;
+}
+
+.pricing-content h2 {
+
+font-weight: 600;
+
+/* transition: 0.5s all ease-in-out; */
+
+/* margin-top: 15px; */
+
+font-size: 20px;
+}
+
+.pricing-content p {
+
+/* font-weight: 500; */
+
+/* margin-top: 0px; */
+
+padding: 0;
+
+margin: 0px;
+
+text-align: center;
+
+font-size: 15px;
+}
+
+.pricing-content .btn {
+
+padding: 2px 17px;
+
+text-decoration: none;
+
+font-size: 16px;
+
+border-radius: 0px;
+
+margin-bottom: 24px;
+
+transition: 0.4s all ease-in-out;
+}
+
+.value {
+
+  padding: 11px 0px;
+  transition: 0.8s all ease-in-out;
+}
+
+.value h1 {
+
+/* transition: 0.7s all ease-in-out; */
+
+/* font-size: 33px; */
+}
+
+.value h6 {
+  /* font-family: Myriad Pro; */
+  /* transition: 0.5s all ease-in-out; */
+  font-size: 12px;
+}
+.pricing-content:hover {
+  box-shadow: 0 0px 4px 3px #f69165;
+}
+
+.pricing-content:hover h2 {
+
+/* font-size: 18px; */
+}
+
+.pricing-content:hover .value {
+
+}
+
+.pricing-content:hover .value h1 {
+
+font-size: 33px;
+}
+
+.pricing-content:hover .value h6 {
+
+}
+
+.pricing-content:hover .btn {
+
+}
+/* 7th End Our pricing Plan section */
+/* 8th start our happy clients */
+
+.our-happy-clients {
+
+}
+
+.cus-mod1{
+
+}
+
+.cus-mod1 h1 {font-size: 2;font-size: 18px;}
+
+.cus-mod1 p {
+  font-size: 13px;
+  padding: 5px;
+  text-align: center;
+}
+.cus-mod1 i {
+ 
+font-size: 20px;
+}
+/* 8th End our happy clients */
+/* 9th start Dental Recent Newsletter part*/
+.dental-recent-news{
+ 
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.news-cont{
+
+/* text-align: center; */
+}
+
+.news-cont ul li a i{
+
+font-size: 29px;
+
+margin-left: 52px;
+}
+.news-cont  h5{
+
+font-size: 20px;
+
+text-align: center;
+}
+.news-cont  p{
+
+font-size: 17px;
+}
+.cus-align{
+
+}
+.cus-align ul{
+  
+}
+.cus-align ul li{
+  
+}
+.cus-align ul li a{
+  
+padding-left: 30px;
+}
+.cus-align ul li p{
+  
+padding-left: 30px;
+  
+font-size: 15px;
+  
+display: block;
+  
+padding-top: 0;
+}
+.cus-align ul li a img{
+  
+margin-left: 18px;
+  
+/* margin: 0; */
+  
+display: inherit;
+  
+height: 22px;
+}
+.news-cont1 h4{
+
+text-align: center;
+}
+.news-cont1 p{
+
+}
+.news-cont1 ul{
+
+list-style: none;
+
+padding: -3px;
+}
+.news-cont1 ul li{
+  
+padding: -6px;
+}
+.news-cont1 ul li a{/* padding-left: 0; *//* margin: 0; *//* display: block; */}
+.news-cont1 ul li p{font-size: 16px;padding-left: -14px;/* padding-top: 0px; *//* text-align: end; */display: block;}
+.news-cont1 ul li a img{display: block;height: 76px;margin-left: 58px;}
+.news-cont1 ul li a i{
+}
+
+.news-cont3{
+
+text-align: center;
+
+padding-top: 13px;
+}
+.news-cont3 h4{
+
+  
+}
+.news-cont3 p{
+
+font-size: 17px;
+
+/* text-align: center; */
+}
+.input-group mb-3{
+
+}
+.input-group mb-3 .form-control{
+  
+}
+.btn btn-outline-secondary{
+
+}
+.sub-news-cont ul li p{
+
+font-size: 15px;
+}
+.sub-news-cont2 ul {
+ 
+
+}
+.sub-news-cont2 ul li{
+ 
+font-size: 13px;
+}
+.sub-news-cont h5{
+
+font-size: 17px;
+
+/* display: contents; */
+
+padding: -7px;
+}
+.sub-news-cont2 ul li a{
+ 
+
+}
+.sub-news-cont2 ul li a i{
+ 
+  padding-left: 5px;
+
+}
+
+.input-group-append .btn, .input-group-prepend .btn {
+
+  z-index: 2;
+ 
+}
+
+.btn-outline-secondary:hover {
+ 
+}
+.form-control {
+ 
+}
+.sub-news-cont2 ul li a i:hover {
+
+
+}
+
+/* 9th End Dental Recent Newsletter part*/
+
+/* 10th start  footer part */
+.footer-part{
+  
+  
+}
+.footer-part span{
+  
+}
+.cftr{
+ 
+padding: 10px 0;
+}
+.cftr p{
+ 
+font-size: 15px;
+}
+
+/* End footer part */
+}
+@media (max-width:575px){
+      /* 1st start dental part */
+.startdental{
+
+padding: 0;
+
+padding-left: 72px;
+}
+  .custom-hg{
+  display: contents;
+  text-align: end;
+  }
+  .custom-hg1{
+  
+margin-left: 0;
+  
+display: contents;
+  }
+  .start-icon img{
+    
+height: 18px;
+  }
+  .custom-hg1 ul li img{
+
+height: 20px;
+
+}
+  .custom-hg1 ul{
+  
+display: block;
+  }
+
+  .custom-hg1 ul li a{
+  display: contents;
+  }
+
+.start-icon{
+  
+display: inline-block;
+}
+/* 1st End dental part */
+
+/* 3rd start we provide total */
+.img-h{
+  justify-content: center;
+}
+.We-Provide-Total{
+
+min-height: 62vh;
+}
+.custom-wpt{
+
+}
+.banner-button {
+  
+margin-left: 2rem;
+}
+.banner-button .btn-custom1{
+
+font-size: 8px;
+}
+.banner-button .btn-custom2{
+
+font-size: 9px;
+
+margin-right: 4rem;
+}
+.heading{
+
+}
+.heading h3{
+
+font-size: 12px;
+
+margin: 0;
+
+margin-bottom: 12px;
+
+margin-left: 1rem;
+
+margin-right: 10rem;
+}
+.heading h1{
+
+font-size: 13px;
+
+margin: 0;
+
+margin-left: 1rem;
+
+margin-right: 9rem;
+}
+p {
+
+/* margin-right: 11rem; */
+
+margin-left: 23px;
+
+font-size: 14px;
+}
+.provide-content{
+
+text-align: center;
+
+font-size: 13px;
+}
+
+/* 3rd End we provide total */
+/* 4th part start Welcome to Dental Plus Agency*/
+
+.Welcome-Dental-Plus-Agency{
+
+background-image: url(../images/welcome.jpg);
+
+background-size: 100vh;
+
+background-repeat: no-repeat;
+
+/* padding: 0; */
+
+min-height: 100vh;
+
+display: block;
+}
+  .img-dental-plus{
+  
+display: none;
+  }
+  .img-dental-plus img{
+      display: none;
+  }
+  .heading1{
+  
+text-align: center;
+  
+/* margin-top: 0; */
+  }
+  .heading1 h3{
+    
+text-align: center;
+    
+font-size: 20px;
+    
+padding-top: 12px;
+  }
+  .heading1 p{
+    
+text-align: center;
+    
+font-size: 13px;
+    
+margin-right: 0;
+  }
+  .welcome{
+  
+text-align: center;
+  }
+  .welcome a{
+    
+  }
+  .welcome h5{
+    
+font-size: 13px;
+  }
+  .welcome p{
+    
+text-align: center;
+    
+margin-right: 0;
+    
+font-size: 11px;
+  }
+  
+/* 4th part end Welcome to Dental Plus Agency.*/
+
+/* 5th Start Meet out doctor */
+.meetourdoctor {
+padding:;
+padding: 75px 0px;
+}
+.cus-mod{
+  
+padding: 0px 2px;
+  
+/* justify-content: center; */
+}
+.cus-mod i {
+
+font-size: 20px;
+}
+.cus-mod h1 {
+
+font-size: 19px;
+}
+.cus-mod p {
+
+/* text-align: center; */
+
+/* margin-left: 8.8rem; */
+
+font-size: 12px;
+
+padding-left: 25px;
+}
+.doctordetails {
+
+padding: 0;
+
+}
+
+.info {
+
+text-align: center;
+
+}
+.info h5 {
+
+font-size: 14px;
+}
+.info p {
+
+text-align: center;
+
+font-size: 11px;
+
+padding: 0;
+}
+.icon-box ul li:first-child {
+ 
+  border: 1px solid #fff;
+  padding: 6px 9px;
+  margin: 6px;
+}
+.icon-box ul li {
+  
+  border: 1px solid #fff;
+  padding: 4px 5px;
+  margin: 6px;
+}
+
+.icon-box ul li:last-child {
+  border: 1px solid #fff;
+  padding: 4px 5px;
+  margin: 6px;
+}
+/* 5th part Meet our doctor End */
+/* 6th start section Our Services */
+.cus-srvc{
+  
+}
+.ourservices {
+
+}
+.servicebox {
+
+}
+.service {
+  
+min-height: 100px;
+}
+.service a {
+
+display: block;
+
+font-size: 12px;
+}
+.service p {
+
+font-size: 13px;
+
+display: contents;
+}
+.icon {
+  
+display: block;
+  
+text-align: end;
+  
+text-align: center;
+  
+min-height: 63px;
+}
+.icon i {
+ 
+padding: 0;
+}
+.icon h5 {font-size: 12px;}
+
+/*  6th End section Our Services */
+/* 7th start Our Pricing plan  */
+.our-pricing-plan {
+
+  padding: 85px 0px;
+}
+.pricing-content{
+
+border: 3px solid #fff;
+
+transition: 0.6s all ease-in-out;
+}
+
+.pricing-content h2 {
+
+font-weight: 600;
+
+/* transition: 0.5s all ease-in-out; */
+
+/* margin-top: 15px; */
+
+font-size: 12px;
+}
+
+.pricing-content p {
+
+/* font-weight: 500; */
+
+/* margin-top: 0px; */
+
+padding: 0;
+
+margin: 0px;
+
+text-align: center;
+
+font-size: 11px;
+}
+
+.pricing-content .btn {
+
+padding: 2px 13px;
+
+text-decoration: none;
+
+font-size: 11px;
+
+/* border-radius: 0px; */
+
+/* margin-bottom: 24px; */
+
+/* transition: 0.4s all ease-in-out; */
+}
+
+.value {
+
+  padding: 11px 0px;
+  transition: 0.8s all ease-in-out;
+}
+
+.value h1 {
+
+/* transition: 0.7s all ease-in-out; */
+
+/* font-size: 33px; */
+}
+
+.value h6 {
+  /* font-family: Myriad Pro; */
+  /* transition: 0.5s all ease-in-out; */
+  font-size: 12px;
+}
+.pricing-content:hover {
+  box-shadow: 0 0px 4px 3px #f69165;
+}
+
+.pricing-content:hover h2 {
+
+/* font-size: 18px; */
+}
+
+.pricing-content:hover .value {
+
+}
+
+.pricing-content:hover .value h1 {
+
+}
+
+.pricing-content:hover .value h6 {
+
+}
+
+.pricing-content:hover .btn {
+
+}
+/* 7th End Our pricing Plan section */
+/* 8th start our happy clients */
+
+.our-happy-clients {
+
+}
+
+.cus-mod1{
+
+}
+
+.cus-mod1 h1 {font-size: 2;font-size: 18px;}
+
+.cus-mod1 p {
+  font-size: 13px;
+  padding: 5px;
+  text-align: center;
+}
+.cus-mod1 i {
+ 
+}
+/* 8th End our happy clients */
+
+/* 9th start Dental Recent Newsletter part*/
+.dental-recent-news{
+ 
+padding-top: 3rem;
+ 
+padding-bottom: 3rem;
+}
+.news-cont{
+
+text-align: center;
+}
+
+.news-cont ul li a i{
+
+font-size: 20px;
+
+/* margin-left: 132px; */
+
+margin-left: 3rem;
+}
+.news-cont  h5{
+
+text-align: end;
+
+text-align: center;
+
+font-size: 17px;
+}
+.news-cont  p{
+
+text-align: center;
+
+font-size: 14px;
+}
+.cus-align{
+
+}
+.cus-align ul{
+  
+}
+.cus-align ul li{display: flex;}
+.cus-align ul li a{margin-left: 3;margin-left: 12px;}
+.cus-align ul li p{
+  
+/* padding-left: 30px; */
+  
+font-size: 9px;
+  
+display: block;
+  
+padding-top: 0;
+}
+.cus-align ul li a img{
+  
+/* margin-left: 27px; */
+  
+height: 17px;
+  
+display: block;
+}
+.news-cont1 h4{
+
+text-align: center;
+}
+.news-cont1 p{
+
+}
+.news-cont1 ul{
+
+list-style: none;
+}
+.news-cont1 ul li{
+}
+.news-cont1 ul li a{margin-left: 40px;}
+.news-cont1 ul li p{font-size: 13px;padding: 0;display: block;padding-top: 16px;}
+.news-cont1 ul li a img{height: 60px;margin-left: 11px;display: block;}
+.news-cont1 ul li a i{
+}
+
+.news-cont3{
+
+text-align: center;
+}
+.news-cont3 h4{
+
+  
+}
+.news-cont3 p{
+
+font-size: 14px;
+
+text-align: center;
+}
+.input-group mb-3{
+
+}
+.input-group mb-3 .form-control{
+  
+}
+.btn btn-outline-secondary{
+
+}
+.sub-news-cont ul li p{
+
+font-size: 15px;
+}
+.sub-news-cont2 ul {
+ 
+
+}
+.sub-news-cont2 ul li{
+ 
+font-size: 12px;
+}
+.sub-news-cont2 ul li a{
+ 
+
+}
+.sub-news-cont2 ul li a i{
+ 
+  padding-left: 5px;
+
+}
+
+.input-group-append .btn, .input-group-prepend .btn {
+
+  z-index: 2;
+ 
+}
+
+.btn-outline-secondary:hover {
+ 
+}
+.form-control {
+ 
+}
+.sub-news-cont2 ul li a i:hover {
+
+
+}
+
+/* 9th End Dental Recent Newsletter part*/
+
+/* 10th start  footer part */
+.footer-part{
+  
+  
+}
+.footer-part span{
+  
+font-size: 12px;
+}
+.cftr{
+ 
+padding: 5px 0;
+}
+.cftr p{
+ 
+font-size: 12px;
+}
+
+/* End footer part */
+
+
+
+}
+@media (max-width:320px){
+      /* 1st start dental part */
+      .startdental{
+          
+padding: 0;
+          }
+          
+              .custom-hg{
+              display: contents;
+              text-align: end;
+              }
+          
+              .custom-hg1{
+              
+          margin-left: 0;
+              
+          display: contents;
+              }
+          
+              .start-icon{
+              
+          display: inline-block;
+          }
+      /* 1st End dental part */
+
+      /* 3rd start we provide total */
+
+.We-Provide-Total{min-height: 100vh;}
+.img-h{
+  justify-content: center;
+}
+
+.banner-button {
+
+margin-left: 3rem;
+}
+.banner-button .btn-custom1{
+
+font-size: 8px;
+
+padding-left: 10px;
+
+padding-right: 8px;
+}
+.banner-button .btn-custom2{
+
+font-size: 8px;
+
+padding-left: 10px;
+
+padding-right: 8px;
+
+margin-right: 3rem;
+}
+.heading{
+
+}
+.heading h3{
+
+font-size: 13px;
+
+margin: 0;
+
+margin-bottom: 12px;
+}
+.heading h1{
+
+font-size: 16px;
+
+margin: 0;
+
+}
+p {
+
+margin-right: 0rem;
+}
+
+
+/* 3rd End we provide total */
+/* 4th part start Welcome to Dental Plus Agency*/
+
+.Welcome-Dental-Plus-Agency{
+
+background-image: url(../images/welcome.jpg);
+
+background-size: 112vh;
+
+background-repeat: no-repeat;
+
+background-position: 70% 104%;
+}
+  .img-dental-plus{
+      
+/* min-height: 22vh; */
+      
+display: none;
+      }
+      .img-dental-plus img{
+          display: none;
+      }
+      .heading1{
+      
+text-align: center;
+      
+      }
+      .heading1 h3{
+        
+text-align: center;
+        
+font-size: 14px;
+        
+padding-top: 0px;
+      }
+      .heading1 p{
+        
+text-align: center;
+        
+font-size: 11px;
+        
+/* margin-right: 0; */
+        
+margin: 0;
+      }
+      .welcome{
+      
+  text-align: center;
+      }
+      .welcome a{
+        
+/* min-height: 9vh; */
+      }
+      .welcome h5{
+        
+font-size: 12px;
+      }
+      .welcome p{
+        
+text-align: center;
+        
+margin-right: 0;
+        
+font-size: 11px;
+      }
+/* 4th part end Welcome to Dental Plus Agency.*/
+/* 5th Start Meet out doctor */
+.meetourdoctor {
+  
+  padding: 75px 0px;
+  }
+  .cus-mod{
+    
+padding: 0;
+    
+/* text-align: center; */
+    
+/* justify-content: start; */
+  }
+  .cus-mod i {
+  
+font-size: 17px;
+  
+margin-left: 28px;
+  }
+  .cus-mod h1 {
+  
+font-size: 14px;
+  
+margin-left: 29px;
+  }
+  .cus-mod p {
+  
+text-align: center;
+  
+font-size: 12px;
+  }
+  .doctordetails {
+  
+  padding: 0;
+  
+  /* text-align: center; */
+  }
+  
+  .info {
+  
+  text-align: center;
+  
+  }
+  .info h5 {
+  
+font-size: 13px;
+  }
+  .info p {
+  
+text-align: center;
+  
+font-size: 12px;
+  
+padding: 0;
+  }
+  .icon-box ul li:first-child {
+    border: 1px solid #fff;
+    padding: 4px 6px;
+    margin: 7px;
+  }
+  .icon-box ul li {
+    border: 1px solid #fff;
+    padding: 4px 4px;
+    margin: 7px;
+  }
+  
+  .icon-box ul li:last-child {
+    border: 1px solid #fff;
+    padding: 5px 4px;
+    margin: 6px;
+  }
+  /* 5th part Meet our doctor End */
+/* 6th start section Our Services */
+.service {
+  
+min-height: 100px;
+}
+.service a {
+
+font-size: 11px;
+}
+.service p {
+
+font-size: 11px;
+
+display: contents;
+}
+.icon {
+
+/* display: block; */
+
+text-align: end;
+
+text-align: center;
+
+min-height: 58px;
+}
+.icon i {
+ 
+/* padding: 0; */
+ 
+font-size: 21px;
+}
+.icon h5 {font-size: 9px;}
+
+/*  6th End section Our Services */
+
+/* 7th start Our Pricing plan  */
+.our-pricing-plan {
+
+  padding: 85px 0px;
+}
+.pricing-content{
+
+border: 3px solid #fff;
+
+}
+.value h1 {
+  /* transition: 0.7s all ease-in-out; */
+  font-size: 27px;
+  margin: 0;
+}
+
+.pricing-content h2 {
+
+font-size: 14px;
+}
+
+.pricing-content p {
+
+/* padding: 0; */
+
+/* margin: 0px; */
+
+text-align: center;
+
+font-size: 11px;
+}
+
+.pricing-content .btn {
+
+font-size: 11px;
+
+margin-bottom: 15px;
+}
+
+.value {
+
+padding:  0px;
+}
+
+
+.value h6 {
+
+font-size: 11px;
+}
+
+
+/* 7th End Our pricing Plan section */
+/* 8th start our happy clients */
+
+.our-happy-clients {
+
+}
+
+.cus-mod1{
+
+}
+
+.cus-mod1 h1 {font-size: 2;font-size: 14px;}
+
+.cus-mod1 p {
+  font-size: 9px;
+  /* padding: 5px; */
+  text-align: center;
+}
+.cus-mod1 i {
+ 
+font-size: 17px;
+}
+/* 8th End our happy clients */
+/* 9th start Dental Recent Newsletter part*/
+.dental-recent-news{
+ 
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.news-cont{
+
+text-align: center;
+}
+
+.news-cont ul li a i{
+
+font-size: 19px;
+
+margin-left: 30px;
+}
+.news-cont  h5{
+
+text-align: center;
+
+/* padding-left: 20px; */
+
+font-size: 15px;
+}
+.news-cont  p{
+
+text-align: center;
+
+font-size: 12px;
+}
+.cus-align{
+
+}
+.cus-align ul{
+  
+}
+.cus-align ul li{
+  
+}
+.cus-align ul li a{
+  
+padding-left: 30px;
+}
+.cus-align ul li p{
+  
+padding-left: 42px;
+  
+font-size: 8px;
+  
+padding-top: 0;
+}
+.cus-align ul li a img{
+  
+margin-left: 15px;
+}
+.news-cont1 h4{
+
+text-align: center;
+
+font-size: 16px;
+}
+.news-cont1 p{
+
+}
+.news-cont1 ul{
+
+list-style: none;
+}
+.news-cont1 ul li{margin: 0;}
+.news-cont1 ul li a{}
+.news-cont1 ul li p{font-size: 11px;display: block;}
+.news-cont1 ul li a img{
+    height: 12vh;
+    margin: 0;
+}
+.news-cont1 ul li a i{
+}
+
+.news-cont3{
+
+text-align: center;
+}
+.news-cont3 h4{
+
+  
+}
+.news-cont3 p{
+
+font-size: 12px;
+
+text-align: center;
+}
+.input-group mb-3{
+
+}
+.input-group mb-3 .form-control{
+  
+}
+.btn btn-outline-secondary{
+
+}
+.sub-news-cont ul li p{
+
+font-size: 10px;
+
+font-weight: 500;
+}
+.sub-news-cont2 ul {
+ 
+
+}
+.sub-news-cont2 ul li{
+ 
+font-size: 10px;
+}
+.sub-news-cont2 ul li a{
+ 
+
+}
+.sub-news-cont2 ul li a i{
+ 
+  padding-left: 5px;
+
+}
+
+.input-group-append .btn, .input-group-prepend .btn {
+
+z-index: 2;
+
+font-size: 12px;
+}
+
+.btn-outline-secondary:hover {
+ 
+}
+.form-control {
+ 
+font-size: 16px;
+}
+
+.news-cont3 h5 {font-size: 1;font-size: 14px;}
+
+
+
+/* 9th End Dental Recent Newsletter part*/
+
+/* 10th start  footer part */
+.footer-part{
+  
+/* padding: 0; */
+  
+/* margin: 0; */
+}
+.footer-part span{
+  
+font-size: 11px;
+}
+.cftr{
+}
+.cftr p{
+ 
+font-size: 10px;
+ 
+text-align: center;
+}
+
+/* End footer part */
+.welcome img {
+  height: 28px;
+}
+
+}
+
+
+
